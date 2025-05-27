@@ -1,5 +1,4 @@
 # SMS_Spam_Detection
-GrowthLink Assignment
 It contains two files :-
 spam_detection.py ----> Main code for creating the model from the dataset.
 detection.py ----> Code for taking user input and determining whether the given text is spam or not.
